@@ -5,3 +5,4 @@ In "_Settlers of Catan_" when you setup, normally you place the resource hexes a
 
 Meet CR-RaNG, formally called Catan Random Resource and Number Generator (CR-RaNG). It displays the resource abbreviations and numbers in an organized catan board shape for easy viewing and placing.
 
+File rdm_rsc_setup.py generates the resource hexes and file rdm_num_setup.py generates random numbers.
